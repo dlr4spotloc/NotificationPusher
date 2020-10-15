@@ -34,10 +34,10 @@
         "zendframework/zendservice-google-gcm": "~2.1",
         "zendframework/zend-validator": "^2.12",
         "doctrine/inflector": "~1.1",
-        "symfony/filesystem": ">=2.3,<5",
-        "symfony/debug": ">=2.3,<5",
         "symfony/process": "^5.1",
-        "symfony/console": "^5.1"
+        "symfony/console": "^5.1",
+        "symfony/filesystem": "^5.1",
+        "symfony/debug": "^4.4"
     },
     "require-dev": {
         "atoum/atoum": "^3.1",
